@@ -13,6 +13,8 @@ https://kadatv.online/fr/videotcm.m3u8
 https://kadatv.online/fr/videocp.m3u8
 #EXTINF:-1 tvg-id="Kadatv.com",W9
 https://kadatv.online/fr/videow9.m3u8
+#EXTINF:-1 tvg-id="Kadatv.com",M6
+https://kadatv.online/fr/videom6.m3u8
 #EXTINF:-1 tvg-id="Kadatv.com",6ter
 https://kadatv.online/fr/video6ter.m3u8
 #EXTINF:-1 tvg-id="Kadatv.com",AB1
