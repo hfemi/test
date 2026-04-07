@@ -51,6 +51,7 @@ https://video1.getstreamhosting.com:1936/8330/8330/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVLaCapitale.ci@SD",TV La Capitale
 https://stream.berosat.live:19360/tv-capitale-tream/tv-capitale-tream.m3u8
+
 #EXTINF:-1 tvg-id="Kadatv.com",TF1
 https://kadatv.online/fr/videotf1.m3u8
 #EXTINF:-1 tvg-id="Kadatv.com",TF1 Séries Films
@@ -115,6 +116,33 @@ https://tvradiozap.eu/tools/dm-m3u8.php/xkxbzc.m3u8
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8
 #EXTINF:-1 tvg-id="TF1.fr",Voyages+
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ff8d1526-e572-4bb5-8c93-560eb80115bf/manifest.m3u8
+
+#EXTINF:-1 tvg-id="kadatv.online",EUROSPORT 1 NL
+https://yacinetv.net/kadaTV/Eurosport1NL.m3u8
+#EXTINF:-1 tvg-id="kadatv.online",EUROSPORT 2 NL
+https://yacinetv.net/kadaTV/Eurosport2NL.m3u8
+#EXTINF:-1 tvg-id="kadatv.online",ESPN Nederland
+https://yacinetv.net/kadaTV/ESPN1NL.m3u8
+#EXTINF:-1 tvg-id="kadatv.online",ESPN 2 Nederland
+https://yacinetv.net/kadaTV/ESPN2NL.m3u8
+#EXTINF:-1 tvg-id="kadatv.online",ESPN 3 Nederland
+https://yacinetv.net/kadaTV/ESPN3NL.m3u8
+#EXTINF:-1 tvg-id="kadatv.online",ESPN 4 Nederland
+https://yacinetv.net/kadaTV/ESPN4NL.m3u8
+#EXTINF:-1 tvg-id="kadatv.online",Ziggo Sport NL
+https://yacinetv.net/kadaTV/ZiggoSport.m3u8
+#EXTINF:-1 tvg-id="kadatv.online",Ziggo Sport 2 NL
+https://yacinetv.net/kadaTV/ZiggoSport2.m3u8
+#EXTINF:-1 tvg-id="kadatv.online",Ziggo Sport 3 NL
+https://yacinetv.net/kadaTV/ZiggoSport3.m3u8
+#EXTINF:-1 tvg-id="kadatv.online",Ziggo Sport 4 NL
+https://yacinetv.net/kadaTV/ZiggoSport4.m3u8
+#EXTINF:-1 tvg-id="kadatv.online",Ziggo Sport 5 NL
+https://yacinetv.net/kadaTV/ZiggoSport5.m3u8
+#EXTINF:-1 tvg-id="kadatv.online",Ziggo Sport 6 NL
+https://yacinetv.net/kadaTV/ZiggoSport6.m3u8
+
+
 #EXTINF:-1 tvg-id="kadatv.online",beIN1
 https://yacinetv.net/kadaTV/beINAR.m3u8
 #EXTINF:-1 tvg-id="kadatv.online",beIN2
@@ -133,12 +161,14 @@ https://yacinetv.net/kadaTV/beINAR7.m3u8
 https://yacinetv.net/kadaTV/beINAR8.m3u8
 #EXTINF:-1 tvg-id="kadatv.online",beIN9
 https://yacinetv.net/kadaTV/beINAR9.m3u8
+
 #EXTINF:-1 tvg-id="kadatv.online",RMC Sport 1 FR
 https://yacinetv.net/kadaTV/RMCSPORT1FR.m3u8
 #EXTINF:-1 tvg-id="kadatv.online",RMC Sport 2 FR
 https://yacinetv.net/kadaTV/RMCSPORT2FR.m3u8
 #EXTINF:-1 tvg-id="kadatv.online",RMC Sport 3 FR
 https://yacinetv.net/kadaTV/RMCSPORT3FR.m3u8
+
 #EXTINF:-1 tvg-id="kadatv.online",CANAL+ SPORT FR
 https://yacinetv.net/kadaTV/CANALSPORTFR.m3u8
 #EXTINF:-1 tvg-id="kadatv.online",CANAL+ FOOT FR
@@ -151,6 +181,7 @@ https://yacinetv.net/kadaTV/EQUIPEFR.m3u8
 https://yacinetv.net/kadaTV/Euro1FR.m3u8
 #EXTINF:-1 tvg-id="kadatv.online",EUROSPORT 2 FR
 https://yacinetv.net/kadaTV/Euro2FR.m3u8
+
 #EXTINF:-1 tvg-id="kadatv.online",beIN SPORTS 1 FR
 https://yacinetv.net/kadaTV/BEINSPORT1FR.m3u8
 #EXTINF:-1 tvg-id="kadatv.online",beIN SPORTS 2 FR
@@ -169,6 +200,7 @@ https://yacinetv.net/kadaTV/beINMAX7FR.m3u8
 https://yacinetv.net/kadaTV/beINMAX8FR.m3u8
 #EXTINF:-1 tvg-id="kadatv.online",beIN SPORTS Max 9
 https://yacinetv.net/kadaTV/beINMAX9FR.m3u8
+
 #EXTINF:-1 tvg-id="kadatv.online",CANAL+ SPORT 1 Afrique
 https://yacinetv.net/kadaTV/CNPLSP1AF.m3u8
 #EXTINF:-1 tvg-id="kadatv.online",CANAL+ SPORT 2 Afrique
