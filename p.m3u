@@ -35,14 +35,19 @@ https://video1.getstreamhosting.com:1936/8338/8338/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RefletTV.ci@SD",REFLET TV (1080p)
 https://edge-a3.evrideo.tv/8f37c9f0-fe22-44f4-b64a-76ad11730daf_1000026630_HLS/manifest.m3u8
+
 #EXTINF:-1 tvg-id="RTI1.ci@SD",RTI 1 (1080p) [Not 24/7]
 http://69.64.57.208:8080/rti1/playlist.m3u8
+
 #EXTINF:-1 tvg-id="RTI1.ci@SD",RTI 1
 https://video1.getstreamhosting.com:1936/8336/8336/playlist.m3u8
+
 #EXTINF:-1 tvg-id="RTI2.ci@SD",RTI 2 (1080p) [Not 24/7]
 http://69.64.57.208:8080/rti2/playlist.m3u8
+
 #EXTINF:-1 tvg-id="RTI2.ci@SD",RTI 2
 https://video1.getstreamhosting.com:1936/8066/8066/playlist.m3u8
+
 #EXTINF:-1 tvg-id="RTILa3.ci@SD",RTI La 3 (1080p) [Not 24/7]
 http://69.64.57.208/la3/index.m3u8
 
@@ -54,19 +59,25 @@ https://stream.berosat.live:19360/tv-capitale-tream/tv-capitale-tream.m3u8
 
 #EXTINF:-1 tvg-id="Mtv.ci@SD",MTV  
 https://cachehsi2b.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc2NTM0MjY3Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9tdHZmcmFuY2UvYnJvd3Nlci1ITFM4LyIsInNlc3Npb25fY2RuX2lkIjoiZDdlODNmYjNiMGExMzI3NSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTAuMC4yMjkuMTkiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjMiLCJzb3VyY2VzIjpbNDhdfQ==.PUb5mqZcZosN4t_ciAmMlu0Wk8uhpOCGmMAjFVc_02IcRJTRt3hvQT2hlYji1iNHxhM14xmT-d2ByjsjxQcgDQ==/live/eds/mtvfrance/browser-HLS8/mtvfrance-avc1_500000=10007-mp4a_128000_fra=20002.m3u8
+
 #EXTINF:-1 tvg-id="Kadatv.com",TF1
 https://cachehsi1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc2NzQwMzI4Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy90ZjFoZC9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiI4Y2JmMjJlMmU0OGZjZmJjIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOSIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNDEiLCJzb3VyY2VzIjpbNDhdfQ==.TOA_MsZH2amY2jCYEXhAMcogROj90kNXjlL-VR8hT5d3cZpjCem8yKFoi4Ai2uXVOJiz75L0FI4OfF3IyoBHrQ==/live/eds/tf1hd/browser-HLS8/tf1hd-avc1_700000=10003-mp4a_130400_fra=20000.m3u8
 
 #EXTINF:-1 tvg-id="Kadatv.com",TMC
 https://cachehsi2b.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc2NzQwMzM0Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy90bWMvYnJvd3Nlci1ITFM4LyIsInNlc3Npb25fY2RuX2lkIjoiZWE2NWE1Y2VmZmJjODVlMiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTAuMC4yMjkuMTkiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjMiLCJzb3VyY2VzIjpbNDhdfQ==.Fa67Th--X3I3WnLiADxWB9CeNmU4wvUcfs9bdCxXyKLKIVbcjViUkUjBT7ZxWEg6A9t_WjB9rb6cmJp_0cfpWA==/live/eds/tmc/browser-HLS8/tmc-avc1_500000=10003-mp4a_128000_fra=20004.m3u8
+
 #EXTINF:-1 tvg-id="Kadatv.com",TFX
 https://cachehsi1b.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc2NzQwMzM3Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9udDEvYnJvd3Nlci1ITFM4LyIsInNlc3Npb25fY2RuX2lkIjoiOTc1MDIyNmFkMGQ2YjIwNyIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTAuMC4yMjkuMTgiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjExIiwic291cmNlcyI6WzEwMF19.tLpZDmtaiCCjgaXV1UJJEuGgSgYYg-mAi6h_EROFGUm5-5xNn7_roxESuUgsi7kft0wTQSrlQ36rjsz2rcWT3w==/live/eds/nt1/browser-HLS8/nt1-avc1_500000=10003-mp4a_128000_fra=20005.m3u8
+
 #EXTINF:-1 tvg-id="Kadatv.com",TCM CINÈMA
 https://cachehsi1b.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc2NzQwMzc3Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy90Y20vYnJvd3Nlci1ITFM4LyIsInNlc3Npb25fY2RuX2lkIjoiNWVmZjg4YzljYWNlYWE4ZSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTAuMC4yMjkuMTgiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjExIiwic291cmNlcyI6WzEwMF19.MhclD3T-36grYcZL5VtG0I-txjcvgcOgRU5JETz5aK6upUmpdPcFhuwhR3qtC6GXkGbYqEowI5oYG6yuN_9kpw==/live/eds/tcm/browser-HLS8/tcm-avc1_700000=10006-mp4a_130400_fra=20000.m3u8
+
 #EXTINF:-1 tvg-id="Kadatv.com",W9
 https://cachehsi1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc2NzQwMzQ5Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy93OS9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiJkNjlmZmExZGJkMDM5ZDNmIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOCIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNDEiLCJzb3VyY2VzIjpbMTAwXX0=.CpAHp-HUcYKm0E0bh2cJT576AFmvVevdIE26Me-sMW2j3to96NRC-ztFn0t4MJdKzEuCtstE6Fd0ZyajlHUT2g==/live/eds/w9/browser-HLS8/w9-avc1_500000=10013-mp4a_128000_fra=20004.m3u8
+
 #EXTINF:-1 tvg-id="Kadatv.com",M6
 https://cachehsi1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc2NzQwMzQ3Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9tNmhkL2Jyb3dzZXItSExTOC8iLCJzZXNzaW9uX2Nkbl9pZCI6IjI3YjBjZDg0NTA3Y2NkNjYiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzEwLjAuMjI5LjE5Iiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiI0MSIsInNvdXJjZXMiOls0OF19.tRAPCtTCYNo17hdGqbUzkLGZm7dvixFHInBpUDxlHuFgvBLV_abD6-sMl1WezeChts53u0Dlpy4J6LMnvdU3Kg==/live/eds/m6hd/browser-HLS8/m6hd-avc1_700000=10006-mp4a_130400_fra=20002.m3u8
+
 #EXTINF:-1 tvg-id="Kadatv.com",6ter
 https://cachehsi1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc2NzQwMzU2Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy82dGVyL2Jyb3dzZXItSExTOC8iLCJzZXNzaW9uX2Nkbl9pZCI6IjdjNGFlMTc3NzY0MWRhY2QiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzEwLjAuMjI5LjE4Iiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiI0MSIsInNvdXJjZXMiOlsxMDBdfQ==.5CXgNDfwhol2UB-Lba735MfMTBR-2Sxwnd2YA2StMFZ_wi4gXW7DQI77DlKCtZ8E_Ivdz6ISB7sUDaGEgWt-vQ==/live/eds/6ter/browser-HLS8/6ter-avc1_700000=10006-mp4a_130400_fra=20000.m3u8
 #EXTINF:-1 tvg-id="Kadatv.com",Decouverte
@@ -115,5 +126,151 @@ https://cachehsi1a.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJle
 #EXTINF:-1 tvg-id="TF1.fr",Voyages+
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ff8d1526-e572-4bb5-8c93-560eb80115bf/manifest.m3u8
 
+#EXTINF:-1 tvg-logo="https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/16-exptv.png" group-title="Sports",Star Sports 1
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://n100.zohanayaan.com:1686/hls/star1in.m3u8?md5=c0qiTI0tOl9HFldJGIzkhw&expires=1776715503
 
+#EXTINF:-1 tvg-logo="https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/20-exptv.png" group-title="Sports",PTV Sports
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://n100.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=7HWN_DV43ke2p2pEECdk2g&expires=1776715503
+
+#EXTINF:-1 tvg-logo="https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/38-exptv.png" group-title="Sports",Willow HD
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://n100.zohanayaan.com:1686/hls/willowusa.m3u8?md5=6LVowcyfYFgIkkh9v0J0cw&expires=1776715503
+
+#EXTINF:-1 tvg-logo="https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/8-exptv.png" group-title="Sports",Willow HD 2
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://n100.zohanayaan.com:1686/hls/willowextra.m3u8?md5=1vfpR1r8m1du3socu0E21w&expires=1776715503
+
+#EXTINF:-1 tvg-logo="https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/10-exptv.png" group-title="Sports",Ten Sports
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://n100.zohanayaan.com:1686/hls/tenspk.m3u8?md5=SQVLw3yTOZmc2tzFwF5uNA&expires=1776715503
+
+#EXTINF:-1 tvg-logo="https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/12-exptv.png" group-title="Sports",A Sports HD
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://n100.zohanayaan.com:1686/hls/asportshd.m3u8?md5=srWpClYeczvDwcs4T_xepw&expires=1776715503
+
+#EXTINF:-1 tvg-logo="https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/skycinema.png" group-title="Sports",Sky Cinema
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://n100.zohanayaan.com:1686/hls/skysme.m3u8?md5=E4jAoKEUjgHjGFqBzVWzfw&expires=1776715504
+
+#EXTINF:-1 tvg-logo="https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/tnt.png" group-title="Sports",TNT 1
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://n100.zohanayaan.com:1686/hls/bbtsp1.m3u8?md5=kAHUKB5WPqCH5o9LRKGHTA&expires=1776715504
+
+#EXTINF:-1 tvg-logo="https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/tnt.png" group-title="Sports",TNT 2
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://n100.zohanayaan.com:1686/hls/bbtsp2.m3u8?md5=1WYkWU22Grx9gOPGVI5_6w&expires=1776715504
+
+#EXTINF:-1 tvg-logo="https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/tnt.png" group-title="Sports",TNT 3
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://n100.zohanayaan.com:1686/hls/bbtsp3.m3u8?md5=QfqenftFT50_GyVrCM_IsQ&expires=1776715504
+
+#EXTINF:-1 tvg-logo="https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/tnt.png" group-title="Sports",TNT 4
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://n100.zohanayaan.com:1686/hls/bbtespn.m3u8?md5=59h9A0RcaAbRRnyq66b3Mw&expires=1776715504
+
+#EXTINF:-1 tvg-logo="https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/56-exptv.png" group-title="Sports",Sky Sport Nz 1
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://n100.zohanayaan.com:1686/hls/sky1nz.m3u8?md5=Y-WhD4bZuC05UFKT9BmT5g&expires=1776715504
+
+#EXTINF:-1 tvg-logo="https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/56-exptv.png" group-title="Sports",Sky Sport Nz 2
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://n100.zohanayaan.com:1686/hls/sky2nz.m3u8?md5=wGysOZ8DKhlzQT6XVAVYyQ&expires=1776715504
+
+#EXTINF:-1 tvg-logo="https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/56-exptv.png" group-title="Sports",Sky Sport Nz 3
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://n100.zohanayaan.com:1686/hls/sky3nz.m3u8?md5=3lWKzKc5JpWgEVq8BC0Epg&expires=1776715504
+
+#EXTINF:-1 tvg-logo="https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/56-exptv.png" group-title="Sports",Sky Sport Nz 4
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://n100.zohanayaan.com:1686/hls/sky4nz.m3u8?md5=DiGcq-P003FHtljqGtxMSw&expires=1776715504
+
+#EXTINF:-1 tvg-logo="https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/56-exptv.png" group-title="Sports",Sky Sport Nz 5
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://n100.zohanayaan.com:1686/hls/sky5nz.m3u8?md5=qhC-cW3pQZ9Xezap23W36w&expires=1776715504
+
+#EXTINF:-1 tvg-logo="https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/56-exptv.png" group-title="Sports",Sky Sport 6 Nz
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://n100.zohanayaan.com:1686/hls/sky6nz.m3u8?md5=X03yOS4BN-G69CKnFmkz6A&expires=1776715505
+
+#EXTINF:-1 tvg-logo="https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/56-exptv.png" group-title="Sports",Sky Sport Nz 7
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://n100.zohanayaan.com:1686/hls/sky7nz.m3u8?md5=-ViQxFCCkHbJVzqnZ8H01w&expires=1776715505
+
+#EXTINF:-1 tvg-logo="https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/56-exptv.png" group-title="Sports",Sky Sport Nz 8
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://n100.zohanayaan.com:1686/hls/sky8nz.m3u8?md5=z5ONvM1DdBT5ZlsX1n1DVA&expires=1776715505
+
+#EXTINF:-1 tvg-logo="https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/56-exptv.png" group-title="Sports",Sky Sport Nz 9
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://n100.zohanayaan.com:1686/hls/sky9nz.m3u8?md5=mbRCK5_KhZ-a54NIqNocqg&expires=1776715505
+
+#EXTINF:-1 tvg-logo="https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/skycinema.png" group-title="Sports",Sky Cinema
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://n100.zohanayaan.com:1686/hls/skysme.m3u8?md5=JJoWMLKvT0M2TujJieoOzw&expires=1776715505
+
+#EXTINF:-1 tvg-logo="https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/1745007829332.png" group-title="Sports",Sky Sports Action
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://n100.zohanayaan.com:1686/hls/skysact.m3u8?md5=AVeP7oV2WnrTXMKyTYCD7A&expires=1776715505
+
+#EXTINF:-1 tvg-logo="https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/43-exptv.png" group-title="Sports",Sky Sports Premier League
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://n100.zohanayaan.com:1686/hls/skysprem.m3u8?md5=m0JIoURVrh7jHNmoVxu_ig&expires=1776715505
+
+#EXTINF:-1 tvg-logo="https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/44-exptv.png" group-title="Sports",Sky Sports Football
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://n100.zohanayaan.com:1686/hls/skysfott.m3u8?md5=27THxXjARpx6ezvKEq4ypw&expires=1776715505
+
+#EXTINF:-1 tvg-logo="https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/1745007829327.png" group-title="Sports",Sky Sports Arena
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://n100.zohanayaan.com:1686/hls/skysare.m3u8?md5=CmqrTgyJWp-OWXMNrFgGLQ&expires=1776715505
+
+#EXTINF:-1 tvg-logo="https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/1745008468637.png" group-title="Sports",Sky Sports F1
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://n100.zohanayaan.com:1686/hls/skysfor1.m3u8?md5=D3NpQhSKcZC1FdNMmyUMtQ&expires=1776715505
+
+#EXTINF:-1 tvg-logo="https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/19-exptv.png" group-title="Sports",LaLiGA
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://n100.zohanayaan.com:1686/hls/laligauk.m3u8?md5=_cxug6KXMBj69eqIByf6Xg&expires=1776715506
+
+#EXTINF:-1 tvg-logo="https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/31-exptv.png" group-title="Sports",Premier Sports 1
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://n100.zohanayaan.com:1686/hls/premieruk.m3u8?md5=HfgSBqnSHEMZEN7xrKCzsw&expires=1776715506
+
+#EXTINF:-1 tvg-logo="https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/31-exptv.png" group-title="Sports",Premier Sports 2
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://n100.zohanayaan.com:1686/hls/hdchnl2.m3u8?md5=56HSl4erd5kVBJiu4CLfwg&expires=1776715506
+
+#EXTINF:-1 tvg-logo="https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/34-exptv.png" group-title="Sports",Super Football
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://n100.zohanayaan.com:1686/hls/superfotball.m3u8?md5=fcPnDsGczpggZ8roBhnEPA&expires=1776715506
+
+#EXTINF:-1 tvg-logo="https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/1745008781606.png" group-title="Sports",Super Premier League
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://n100.zohanayaan.com:1686/hls/superpremier.m3u8?md5=W8qMq83qwu5MGZ--w8e8mQ&expires=1776715506
+
+#EXTINF:-1 tvg-logo="https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/17-exptv.png" group-title="Sports",ESPN 1
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://n100.zohanayaan.com:1686/hls/espnusa.m3u8?md5=4z7nDAAvkc4DAiaKwfcRbQ&expires=1776715506
+
+#EXTINF:-1 tvg-logo="https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/17-exptv.png" group-title="Sports",ESPN 2
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://n100.zohanayaan.com:1686/hls/espn2.m3u8?md5=kBiOT9azXwNh-oC3hfKigg&expires=1776715506
+
+#EXTINF:-1 tvg-logo="https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/1745007829327.png" group-title="Sports",Sky Sports Arena
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://n100.zohanayaan.com:1686/hls/skysare.m3u8?md5=BtjLjl3Sw53OR0WjK0ACxg&expires=1776715506
+
+#EXTINF:-1 tvg-logo="https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/13-exptv.png" group-title="Sports",Sky Sports Mix
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://n100.zohanayaan.com:1686/hls/skysmixx.m3u8?md5=1rdnh4aHeuxnhTzALAqvEA&expires=1776715506
+
+#EXTINF:-1 tvg-logo="https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/1745009085794.png" group-title="Sports",Sky Sports Tennis
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://n100.zohanayaan.com:1686/hls/skystennis.m3u8?md5=shYi_mtrizV9MY_fchEWig&expires=1776715506
+
+#EXTINF:-1 tvg-logo="https://sm-live-tv-channel-logo.pages.dev/CricHD/Sports/1000173192-modified.png" group-title="Sports",Sony Sports3
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://n100.zohanayaan.com:1686/hls/ten1hd.m3u8?md5=V_hzU4X0_cb4716cAcy3bQ&expires=1776715507
 
