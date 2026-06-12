@@ -88,29 +88,5 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="World_Cup",TELEMUNDO FHD
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="World_Cup",DSPORTS FHD
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="World_Cup",DSPORTS HD
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/l0qqwxo6sc/out/v1/ba9e2a12afb54ab692464f9b7e72b0ba/cenc-sd.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="World_Cup",CIGNAL TV
-https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="World_Cup",FRANCE TV
-https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/epg.xml"
-#EXTINF:-1 tvg-id="tsports.bd" tvg-name="T Sports" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/tsports.png" group-title="FIFA World Cup",T Sports
-https://bdiptv.stream/stream/tsports/index.m3u8
-#EXTINF:-1 tvg-id="gazi.bd" tvg-name="GTV" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/gtv.png" group-title="FIFA World Cup",GTV
-https://bdiptv.stream/stream/gtv/index.m3u8
-#EXTINF:-1 tvg-id="sport1.in" tvg-name="Sports 18 1 HD" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/sports18.png" group-title="FIFA World Cup",Sports 18 1 HD
-https://bdiptv.stream/stream/sports18/index.m3u8
-#EXTINF:-1 tvg-id="ddsports.in" tvg-name="DD Sports" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/ddsports.png" group-title="FIFA World Cup",DD Sports
-https://bdiptv.stream/stream/ddsports/index.m3u8
-#EXTINF:-1 tvg-id="toffee.live" tvg-name="Toffee Live 1" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/toffee.png" group-title="FIFA World Cup",Toffee Live 1
-https://bdiptv.stream/stream/toffee1/index.m3u8
-#EXTINF:-1 tvg-id="toffee.live" tvg-name="Toffee Live 2" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/toffee.png" group-title="FIFA World Cup",Toffee Live 2
-https://bdiptv.stream/stream/toffee2/index.m3u8
 
 
